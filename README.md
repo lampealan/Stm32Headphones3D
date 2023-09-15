@@ -22,22 +22,3 @@ In `Experimental_Project2`, the focus shifts towards configuring and retrieving 
 
 Please note that this project is a work in progress, and certain aspects may not be fully functional or optimized. However, it represents a significant step towards the goal of creating headphones with dynamic 3D audio rotation capabilities.
 
-## Getting Started
-
-If you'd like to explore or contribute to this project, you can find the code and documentation for each sub-project in their respective directories: `Experimental_Project1`, `Experimental_Project2`, and `USB_Audio`.
-
-## Dependencies
-
-- STM32F407G-DISC1 development board
-- LSM6DSOX sensor
-- USB drive for audio source
-
-## License
-
-This project is open-source and is available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the license terms.
-
-## Contact
-
-For inquiries or contributions, please contact [Your Name] at [your.email@example.com].
-
-Happy coding!
